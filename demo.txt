@@ -2,3 +2,4 @@ Hello! welcome to Dev2 workspace.
 have a nice day!
 This demo file is created in local machine.
 Changes made by dev1.
+changes to see how we can merge git branches.
